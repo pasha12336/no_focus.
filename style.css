@@ -108,21 +108,21 @@ p {
 } 
    
 main { 
-    width: 1024px; 
+    width: 1024px;
     height: 3352px;
     top: 826px;
 } 
    
 .section1 {
+    display: flex;
     width: 1024px;
     height: 508px;
     top: 828px;
-    padding: 0 20px; 
-    display: flex; 
-} 
-   
+    padding: 0 20px;
+}
+
 .capital_1 {
-    width: 314.96px; 
+    width: 314.96px;
     height: 47px;
 }
    
@@ -162,6 +162,8 @@ span {
 }
 
 .small_2 {
+    width: 984px;
+    height: 508px;
     display: flex;
     gap: 20px;
     flex-direction: row;
